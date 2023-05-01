@@ -1,0 +1,101 @@
+[{
+  "_id": {
+    "$oid": "6434fbdd30b19010b41052f7"
+  },
+  "contact": {
+    "isVerified": true,
+    "phone_no": "9219844782"
+  },
+  "isAdmin": true,
+  "name": "Vishwas Garade",
+  "email": "garadevishwas1@gmail.com",
+  "password": "$2a$10$T8TuNGASqYcfmNjULuSVVun5H.IeL9YJfJF.V/JniP1itSwdeva.C",
+  "address": "NEAR, ITI COLLEGE, SHIVAJI NAGAR",
+  "createdAt": {
+    "$date": "2023-04-11T06:19:09.462Z"
+  },
+  "updatedAt": {
+    "$date": "2023-04-11T06:19:09.462Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "64350f1e7e8d4a14ec107ade"
+  },
+  "contact": {
+    "isVerified": true,
+    "phone_no": "9923187435"
+  },
+  "isAdmin": false,
+  "name": "Vishwas Garade",
+  "email": "vishwas@gmail.com",
+  "password": "$2a$10$prC4BNUbxQPehuBkr.pHeuXm7AvlNvQz7Jkb2O0QsbScEAYn8Du8G",
+  "address": "Dehu Phata Alandi, Pune",
+  "createdAt": {
+    "$date": "2023-04-11T07:41:18.800Z"
+  },
+  "updatedAt": {
+    "$date": "2023-04-11T07:41:18.800Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6435108f7e8d4a14ec107b0b"
+  },
+  "contact": {
+    "isVerified": true,
+    "phone_no": "9632587450"
+  },
+  "isAdmin": false,
+  "name": "Rucha Patil",
+  "email": "rucha@gmail.com",
+  "password": "$2a$10$dRU2tZfRGW.xqgWBzecvd.JMYz5F/JsDoH2Jb32Ytq6t.gBkjTe2S",
+  "address": "Shivaji Nagar, Dhule",
+  "createdAt": {
+    "$date": "2023-04-11T07:47:27.934Z"
+  },
+  "updatedAt": {
+    "$date": "2023-04-11T07:47:27.934Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6435297c27d66e5708a32cf9"
+  },
+  "contact": {
+    "isVerified": true,
+    "phone_no": "9789543456"
+  },
+  "isAdmin": false,
+  "name": "Rucha Patil",
+  "email": "ruchapatil@gmail.com",
+  "password": "$2a$10$AvQPw5X77XSucymSkyeH4OfcsmJ3XRR5LOL.jqe0YD5xSb16V2kZm",
+  "address": "abcfhjjiji",
+  "createdAt": {
+    "$date": "2023-04-11T09:33:48.676Z"
+  },
+  "updatedAt": {
+    "$date": "2023-04-11T09:33:48.676Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6437b62a4d942a3b40eedfc1"
+  },
+  "contact": {
+    "isVerified": true,
+    "phone_no": "9425678654"
+  },
+  "isAdmin": false,
+  "name": "Puja",
+  "email": "puja@gmail.com",
+  "password": "$2a$10$d.jDp6xcPC1eK6ahhvok1.YT7C2ma0RQGysQ612AmUe2MO9na6a3e",
+  "address": "abcdefg",
+  "createdAt": {
+    "$date": "2023-04-13T07:58:34.398Z"
+  },
+  "updatedAt": {
+    "$date": "2023-04-13T07:58:34.398Z"
+  },
+  "__v": 0
+}]

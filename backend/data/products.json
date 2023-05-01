@@ -1,0 +1,391 @@
+[{
+  "_id": {
+    "$oid": "64350e887e8d4a14ec107ac8"
+  },
+  "Cost": {
+    "price": 450,
+    "negotiable": false
+  },
+  "shippingAddress": {
+    "shippingCharge": 100,
+    "address": "Pune District"
+  },
+  "seller": {
+    "phoneNo": {
+      "isVerified": true,
+      "mobile": "9219844782"
+    },
+    "sellername": "Vishwas Garade",
+    "selleraddress": "NEAR, ITI COLLEGE, SHIVAJI NAGAR",
+    "selleremail": "garadevishwas1@gmail.com"
+  },
+  "name": "Algorithms to Live By: The Computer Science of Human Decisions",
+  "images": [
+    {
+      "_id": {
+        "$oid": "64350e887e8d4a14ec107ac9"
+      },
+      "image1": "http://res.cloudinary.com/dh3bp7vbd/image/upload/v1681198661/oyiuj0rlamziayo8qtsx.jpg"
+    }
+  ],
+  "description": " fascinating exploration of how computer algorithms can be applied to our everyday lives. In this dazzlingly interdisciplinary work, acclaimed author Brian Christian and cognitive scientist Tom Griffiths show us how the simple, precise algorithms used by computers can also untangle very human questions.",
+  "category": "CSE book",
+  "expiresOn": {
+    "$date": "2023-06-11T00:00:00.000Z"
+  },
+  "user": {
+    "$oid": "6434fbdd30b19010b41052f7"
+  },
+  "reviews": [
+    {
+      "_id": {
+        "$oid": "64350f4c7e8d4a14ec107ae6"
+      },
+      "name": "Vishwas Garade",
+      "comment": "Very good book for CSE students",
+      "user": {
+        "$oid": "64350f1e7e8d4a14ec107ade"
+      },
+      "createdAt": {
+        "$date": "2023-04-11T07:42:04.240Z"
+      },
+      "updatedAt": {
+        "$date": "2023-04-11T07:42:04.240Z"
+      }
+    }
+  ],
+  "createdAt": {
+    "$date": "2023-04-11T07:38:48.370Z"
+  },
+  "updatedAt": {
+    "$date": "2023-04-11T07:42:04.240Z"
+  },
+  "__v": 1
+},{
+  "_id": {
+    "$oid": "64350edb7e8d4a14ec107ace"
+  },
+  "Cost": {
+    "price": 599,
+    "negotiable": true
+  },
+  "shippingAddress": {
+    "shippingCharge": 200,
+    "address": "Nagpur District"
+  },
+  "seller": {
+    "phoneNo": {
+      "isVerified": true,
+      "mobile": "9219844782"
+    },
+    "sellername": "Vishwas Garade",
+    "selleraddress": "NEAR, ITI COLLEGE, SHIVAJI NAGAR",
+    "selleremail": "garadevishwas1@gmail.com"
+  },
+  "name": "Compilers: Principles, Techniques, and Tools",
+  "images": [
+    {
+      "_id": {
+        "$oid": "64350edb7e8d4a14ec107acf"
+      },
+      "image1": "http://res.cloudinary.com/dh3bp7vbd/image/upload/v1681198773/yh1diohqgaa7gusetoyz.jpg"
+    }
+  ],
+  "description": "Compilers: Principles, Techniques, and Tools is a computer science textbook by Alfred V. Aho, Monica S. Lam, Ravi Sethi, and Jeffrey D. Ullman about compiler construction for programming languages.",
+  "category": "CSE book",
+  "expiresOn": {
+    "$date": "2023-06-02T00:00:00.000Z"
+  },
+  "user": {
+    "$oid": "6434fbdd30b19010b41052f7"
+  },
+  "reviews": [],
+  "createdAt": {
+    "$date": "2023-04-11T07:40:11.917Z"
+  },
+  "updatedAt": {
+    "$date": "2023-04-11T07:40:11.917Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "64350fe17e8d4a14ec107af5"
+  },
+  "Cost": {
+    "price": 250,
+    "negotiable": true
+  },
+  "shippingAddress": {
+    "shippingCharge": 100,
+    "address": "Pune 412105"
+  },
+  "seller": {
+    "phoneNo": {
+      "isVerified": true,
+      "mobile": "9923187435"
+    },
+    "sellername": "Vishwas Garade",
+    "selleraddress": "Dehu Phata Alandi, Pune",
+    "selleremail": "vishwas@gmail.com"
+  },
+  "name": "Basics of Operating System ( Atul Prakashan  )",
+  "images": [
+    {
+      "_id": {
+        "$oid": "64350fe17e8d4a14ec107af6"
+      },
+      "image1": "http://res.cloudinary.com/dh3bp7vbd/image/upload/v1681199009/lte3z91anjvpqb03ojy0.jpg"
+    }
+  ],
+  "description": "An operating system (OS) is the program that, after being initially loaded into the computer by a boot program, manages all of the other application programs in a computer. ",
+  "category": "CSE book",
+  "expiresOn": {
+    "$date": "2023-05-26T00:00:00.000Z"
+  },
+  "user": {
+    "$oid": "64350f1e7e8d4a14ec107ade"
+  },
+  "reviews": [],
+  "createdAt": {
+    "$date": "2023-04-11T07:44:33.862Z"
+  },
+  "updatedAt": {
+    "$date": "2023-04-11T07:44:33.862Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6435103b7e8d4a14ec107afb"
+  },
+  "Cost": {
+    "price": 999,
+    "negotiable": false
+  },
+  "shippingAddress": {
+    "shippingCharge": 100,
+    "address": "Maharashtra State"
+  },
+  "seller": {
+    "phoneNo": {
+      "isVerified": true,
+      "mobile": "9923187435"
+    },
+    "sellername": "Vishwas Garade",
+    "selleraddress": "Dehu Phata Alandi, Pune",
+    "selleremail": "vishwas@gmail.com"
+  },
+  "name": "Software Engineering: A Practitioner's Approach",
+  "images": [
+    {
+      "_id": {
+        "$oid": "6435103b7e8d4a14ec107afc"
+      },
+      "image1": "http://res.cloudinary.com/dh3bp7vbd/image/upload/v1681199122/x5zcdrskuzakpwo6qgwb.jpg"
+    }
+  ],
+  "description": "Designed for the introductory programming course or the software engineering projects course offered in departments of computer science. This book serves as a cookbook for software engineering, presenting the subject as a series of steps that the student can apply to complete a software project. ",
+  "category": "CSE book",
+  "expiresOn": {
+    "$date": "2023-05-13T00:00:00.000Z"
+  },
+  "user": {
+    "$oid": "64350f1e7e8d4a14ec107ade"
+  },
+  "reviews": [
+    {
+      "_id": {
+        "$oid": "643510527e8d4a14ec107b03"
+      },
+      "name": "Vishwas Garade",
+      "comment": "Must Read",
+      "user": {
+        "$oid": "64350f1e7e8d4a14ec107ade"
+      },
+      "createdAt": {
+        "$date": "2023-04-11T07:46:26.254Z"
+      },
+      "updatedAt": {
+        "$date": "2023-04-11T07:46:26.254Z"
+      }
+    }
+  ],
+  "createdAt": {
+    "$date": "2023-04-11T07:46:03.498Z"
+  },
+  "updatedAt": {
+    "$date": "2023-04-11T07:46:26.254Z"
+  },
+  "__v": 1
+},{
+  "_id": {
+    "$oid": "6435139a7e8d4a14ec107b1b"
+  },
+  "Cost": {
+    "price": 695,
+    "negotiable": true
+  },
+  "shippingAddress": {
+    "shippingCharge": 99,
+    "address": "Dhule District"
+  },
+  "seller": {
+    "phoneNo": {
+      "isVerified": true,
+      "mobile": "9632587450"
+    },
+    "sellername": "Rucha Patil",
+    "selleraddress": "Shivaji Nagar, Dhule",
+    "selleremail": "rucha@gmail.com"
+  },
+  "name": "The Art of Electronics",
+  "images": [
+    {
+      "_id": {
+        "$oid": "6435139a7e8d4a14ec107b1c"
+      },
+      "image1": "http://res.cloudinary.com/dh3bp7vbd/image/upload/v1681199919/wiesuszm7vbywiuvligq.jpg"
+    }
+  ],
+  "description": "The Art of Electronics, by Paul Horowitz and Winfield Hill, is a popular reference textbook dealing with analog and digital electronics. The first edition was published in 1980, and the 1989 second edition has been regularly reprinted. The third edition was published on April 9, 2015.",
+  "category": "ENTC Book",
+  "expiresOn": {
+    "$date": "2023-05-15T00:00:00.000Z"
+  },
+  "user": {
+    "$oid": "6435108f7e8d4a14ec107b0b"
+  },
+  "reviews": [
+    {
+      "_id": {
+        "$oid": "6435142a7e8d4a14ec107b2e"
+      },
+      "name": "Rucha Patil",
+      "comment": "Fundamental book for ENTC",
+      "user": {
+        "$oid": "6435108f7e8d4a14ec107b0b"
+      },
+      "createdAt": {
+        "$date": "2023-04-11T08:02:50.520Z"
+      },
+      "updatedAt": {
+        "$date": "2023-04-11T08:02:50.520Z"
+      }
+    }
+  ],
+  "createdAt": {
+    "$date": "2023-04-11T08:00:26.205Z"
+  },
+  "updatedAt": {
+    "$date": "2023-04-11T08:02:50.520Z"
+  },
+  "__v": 1
+},{
+  "_id": {
+    "$oid": "643514047e8d4a14ec107b21"
+  },
+  "Cost": {
+    "price": 599,
+    "negotiable": true
+  },
+  "shippingAddress": {
+    "shippingCharge": 99,
+    "address": "Dhule District"
+  },
+  "seller": {
+    "phoneNo": {
+      "isVerified": true,
+      "mobile": "9632587450"
+    },
+    "sellername": "Rucha Patil",
+    "selleraddress": "Shivaji Nagar, Dhule",
+    "selleremail": "rucha@gmail.com"
+  },
+  "name": "Transistor Circuit Techniques: Discrete and Integrated",
+  "images": [
+    {
+      "_id": {
+        "$oid": "643514047e8d4a14ec107b22"
+      },
+      "image1": "http://res.cloudinary.com/dh3bp7vbd/image/upload/v1681200076/muj96tu7xfh8naamfefr.jpg"
+    }
+  ],
+  "description": "\"This market-leading textbook remains the standard of excellence and innovation. Built on Adel S. Sedra's and Kenneth C. Smith's solid pedagogical foundation, the seventh edition of Microelectronic Circuits is the best yet.",
+  "category": "ENTC Book",
+  "expiresOn": {
+    "$date": "2023-04-27T00:00:00.000Z"
+  },
+  "user": {
+    "$oid": "6435108f7e8d4a14ec107b0b"
+  },
+  "reviews": [],
+  "createdAt": {
+    "$date": "2023-04-11T08:02:12.971Z"
+  },
+  "updatedAt": {
+    "$date": "2023-04-11T08:02:12.971Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6437b7804d942a3b40eedfca"
+  },
+  "Cost": {
+    "price": 200,
+    "negotiable": false
+  },
+  "shippingAddress": {
+    "shippingCharge": 50,
+    "address": "hduihjnejdmkc"
+  },
+  "seller": {
+    "phoneNo": {
+      "isVerified": true,
+      "mobile": "9425678654"
+    },
+    "sellername": "Puja",
+    "selleraddress": "abcdefg",
+    "selleremail": "puja@gmail.com"
+  },
+  "name": "book",
+  "images": [
+    {
+      "_id": {
+        "$oid": "6437b7804d942a3b40eedfcb"
+      },
+      "image1": "http://res.cloudinary.com/dh3bp7vbd/image/upload/v1681372848/oum4ixm5zzrtacvnufdt.jpg"
+    }
+  ],
+  "description": "gfshnocksc",
+  "category": "book of enginering",
+  "expiresOn": {
+    "$date": "2023-04-15T00:00:00.000Z"
+  },
+  "user": {
+    "$oid": "6437b62a4d942a3b40eedfc1"
+  },
+  "reviews": [
+    {
+      "_id": {
+        "$oid": "6437b7a84d942a3b40eedfd2"
+      },
+      "name": "Puja",
+      "comment": "hfodf",
+      "user": {
+        "$oid": "6437b62a4d942a3b40eedfc1"
+      },
+      "createdAt": {
+        "$date": "2023-04-13T08:04:56.289Z"
+      },
+      "updatedAt": {
+        "$date": "2023-04-13T08:04:56.289Z"
+      }
+    }
+  ],
+  "createdAt": {
+    "$date": "2023-04-13T08:04:16.979Z"
+  },
+  "updatedAt": {
+    "$date": "2023-04-13T08:04:56.289Z"
+  },
+  "__v": 1
+}]
